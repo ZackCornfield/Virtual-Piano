@@ -1,11 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
 body {
-    background-color: darkgreen;
+    background-color:azure;
 }
+
+/* Virtual Piano heading styles */
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 5em;
+    text-align: center;
+    margin-top: 20px; /* Adjust margin as needed */
+    color: black; /* Set text color to white */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add text shadow for better visibility */
+}
+
 .container {
     text-align: center;
     position: relative;
-    top: 200px;
+    top: 15vh;
 }
+
 .white-keys kbd {
     display: inline-block;
     background-color: white;
@@ -16,7 +30,7 @@ body {
     z-index: 0;
     margin-left: -5px;
     line-height: 300px;
-    font-family: 'Dancing Script', cursive;
+    font-family: "Concert One", sans-serif;
     font-size: 30px;
 }
 
@@ -30,7 +44,7 @@ body {
     top: -204px;
     z-index: 1;
     line-height: 150px;
-    font-family: 'Dancing Script', cursive;
+    font-family: "Concert One", sans-serif;
     font-size: 18px;
     color: white;
 }
