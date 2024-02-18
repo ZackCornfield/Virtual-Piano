@@ -5,7 +5,7 @@ Hyperskill project: [Project Link](https://hyperskill.org/projects/101?track=5)
 ## Overview
 The Virtual Piano is a web-based application that simulates the functionality of a piano using keyboard input. Users can press specific keys on their keyboard to trigger piano sounds, creating a virtual piano-playing experience.
 
-![Virtual Piano Screenshot](insert_your_screenshot_url_here)
+<img src="https://github.com/ZackCornfield/Virtual-Piano/blob/master/screenshots/Screenshot%202024-02-18%20092934.png" width="650" height="350" style="border: 1px solid #ddd; border-radius: 5px; padding: 10px;" />
 
 ## Features
 - Play piano sounds by pressing designated keys on the keyboard
